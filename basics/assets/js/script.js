@@ -1,6 +1,10 @@
+
 var select = document.getElementById('key');
+
 var btn = document.querySelector('#find');
+
 var rowContainer = document.querySelector('#row-container');
+
 var options = document.querySelectorAll('option');
 
 var person = {
